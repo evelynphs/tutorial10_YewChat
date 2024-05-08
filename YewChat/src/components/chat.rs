@@ -93,7 +93,7 @@ impl Component for Chat {
                             .map(|u| UserProfile {
                                 name: u.into(),
                                 avatar: format!(
-                                    "https://avatars.dicebear.com/api/adventurer-neutral/{}.svg",
+                                    "https://api.dicebear.com/8.x/shapes/svg?seed={}",
                                     u
                                 )
                                 .into(),
@@ -140,7 +140,7 @@ impl Component for Chat {
 
         html! {
             <div class="flex w-screen">
-                <div class="flex-none w-56 h-screen bg-gray-100">
+                <div class="flex-none w-56 h-screen bg-yellow-100">
                     <div class="text-xl p-3">{"Users"}</div>
                     {
                         self.users.clone().iter().map(|u| {
@@ -164,12 +164,12 @@ impl Component for Chat {
                 </div>
                 <div class="grow h-screen flex flex-col">
                     <div class="w-full h-14 border-b-2 border-gray-300"><div class="text-xl p-3">{"💬 Chat!"}</div></div>
-                    <div class="w-full grow overflow-auto border-b-2 border-gray-300">
+                    <div class="w-full grow overflow-auto border-b-2 border-gray-300 bg-blue-100">
                         {
                             self.messages.iter().map(|m| {
                                 let user = self.users.iter().find(|u| u.name == m.from).unwrap();
                                 html!{
-                                    <div class="flex items-end w-3/6 bg-gray-100 m-8 rounded-tl-lg rounded-tr-lg rounded-br-lg ">
+                                    <div class="flex items-end w-3/6 m-8 rounded-tl-lg rounded-tr-lg rounded-br-lg ">
                                         <img class="w-8 h-8 rounded-full m-3" src={user.avatar.clone()} alt="avatar"/>
                                         <div class="p-3">
                                             <div class="text-sm">
