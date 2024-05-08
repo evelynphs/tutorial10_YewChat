@@ -1,0 +1,10 @@
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\libgloo_file-fb495c9c7161e2a0.rmeta: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\libgloo_file-fb495c9c7161e2a0.rlib: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\gloo_file-fb495c9c7161e2a0.d: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs
+
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\lib.rs:
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\blob.rs:
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_list.rs:
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.0\src\file_reader.rs:

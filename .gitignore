@@ -1,0 +1,10 @@
+.idea
+node_modules
+/dist
+/target
+/pkg
+/wasm-pack.log
+.DS_Store
+.vscode
+node_modules
+dist

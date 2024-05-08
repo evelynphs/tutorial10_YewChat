@@ -1,0 +1,9 @@
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\libfutures_executor-67792e32c056f787.rmeta: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\local_pool.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\enter.rs
+
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\libfutures_executor-67792e32c056f787.rlib: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\local_pool.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\enter.rs
+
+C:\Users\HUGO SILALAHI\IdeaProjects\tutorial10\yewchat\YewChat\target\wasm32-unknown-unknown\release\deps\futures_executor-67792e32c056f787.d: C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\lib.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\local_pool.rs C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\enter.rs
+
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\lib.rs:
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\local_pool.rs:
+C:\Users\HUGO\ SILALAHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-executor-0.3.19\src\enter.rs:
